@@ -1,5 +1,8 @@
 **What Day is it?.** 
 
+The main objective of the project is to identify the Day by taking Date as input.
+
+
 **Enhanced Input Validation**: Implemented robust input validation to ensure the user enters a valid month (January-December), year (1800-2999), and date within the specified month's range (including leap year considerations).
 
 **Modular Design**: Organized the code into well-defined functions for clarity, maintainability, and potential reusability (e.g., validmonth, validdate).
